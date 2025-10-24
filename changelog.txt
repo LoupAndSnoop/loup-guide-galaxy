@@ -2,6 +2,7 @@
 Version: 0.69.3
 Date: ????
   Changes:
+    - Blacklisted janus-reshifted, which is a fork of Janus.
 ---------------------------------------------------------------------------------------------------
 Version: 0.69.2
 Date: 2025-09-26
