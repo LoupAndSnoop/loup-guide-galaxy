@@ -2,6 +2,7 @@
 Version: 0.69.4
 Date: ????
   Changes:
+    - Un-blacklisted Planetaris Unbounded (Arig + Hyarion). It is no longer a massive WIP, but not as fleshed out as the recommended planets.
 ---------------------------------------------------------------------------------------------------
 Version: 0.69.3
 Date: 2025-10-24
