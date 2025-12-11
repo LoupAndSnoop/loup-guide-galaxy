@@ -30,7 +30,6 @@
         "! slp-dyson-sphere-reworked",
         "! tenebris-prime",
         "! tenebris",
-        "! terrapalus",
         "! the-eclipse-rift-system",
         
         "! solarsystemplusplus",
@@ -44,7 +43,7 @@
         "! planet-quadromire",
         "! planet-tapatrion",
         "! planet-tchekor",
-        "! planet-vicrox",
+        "! planet-vicrox", "! planet-vicrox-reworked",
         "! planet-zzhora",
 
         "! delete-gleba", "! FarmingInAnotherWorld"

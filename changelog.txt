@@ -2,6 +2,8 @@
 Version: 0.69.5
 Date: ????
   Changes:
+    - Blacklisted planet Vicrox fork.
+    - Unblacklisted Terra palus, following it being un-abandoned.
 ---------------------------------------------------------------------------------------------------
 Version: 0.69.4
 Date: 2025-11-18
