@@ -2,6 +2,7 @@
 Version: 0.69.6
 Date: ????
   Changes:
+    - Blacklisted Pyroclast following reports of it sucking ass and being invasive.
 ---------------------------------------------------------------------------------------------------
 Version: 0.69.5
 Date: 2025-12-11
