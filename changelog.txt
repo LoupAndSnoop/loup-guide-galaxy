@@ -2,6 +2,8 @@
 Version: 0.69.7
 Date: ????
   Changes:
+    - Factorio v2.1 compatibility update. Not all the dependencies for this mod are updated to 2.1, so it won't run on 2.1, but the patch is ready from this modpack's side.
+    - Muluna and Lignumis are now optional-recommended for people who might be mid-playthrough.
 ---------------------------------------------------------------------------------------------------
 Version: 0.69.6
 Date: 2026-02-24
